@@ -27,7 +27,6 @@ the_silver_searcher
 tmux
 unar
 wget
-fish
 editorconfig
 mplayer
 asciiquarium
@@ -35,9 +34,7 @@ coreutils
 ctags
 global
 stunnel
-nano
 rlwrap
 node
 direnv
 the_silver_searcher
-nvim
